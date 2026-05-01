@@ -9,6 +9,9 @@ A full-stack ML-powered healthcare analytics platform that predicts patient risk
 This project simulates an end-to-end clinical decision support system. It generates synthetic patient records, engineers clinical features, trains two ML classifiers, uses synthetic data simulating clinical records and exposes predictions through both an interactive web dashboard and a REST API — complete with personalised health recommendations.
 
 ---
+## 📸 Preview
+
+![Dashboard Preview](assets/dashboard_preview.png)
 
 ## 🗂️ Project Structure
 
