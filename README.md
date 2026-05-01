@@ -11,7 +11,7 @@ This project simulates an end-to-end clinical decision support system. It genera
 ---
 ## 📸 Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 🗂️ Project Structure
 
