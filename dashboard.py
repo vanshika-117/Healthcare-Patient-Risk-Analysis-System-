@@ -14,6 +14,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd
 import numpy as np
+import os
 
 from analysis  import generate_patient_data, clean_and_engineer, compute_statistics
 from ml_model  import train_models, predict_patient, FEATURES, FEATURE_LABELS, RISK_ORDER
